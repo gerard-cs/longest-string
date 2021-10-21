@@ -7,3 +7,9 @@ The initial list has 'n' string items. The list will enter a loop where the numb
 From the second list, the element with the highest value will be found by means of the 'max' function and the index of that element will be obtained.
 
 Finally, the string with the highest number of characters in the list will be printed on the screen.
+
+## Getting started
+
+Clone de repository `git clone git@github.com:gerard-cs/longest-string.git`.
+
+Run `python3 main.py`.
